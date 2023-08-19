@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1692471322 source:c:\users\marce\documents\c_programming\ai_tic_tac_toe_(unbeatable)\ai_player2_human_player1.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1692473068 source:c:\users\marce\documents\c_programming\ai_tic_tac_toe\ai_player2_human_player1.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
