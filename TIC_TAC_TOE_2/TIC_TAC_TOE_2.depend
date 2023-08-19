@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1692467697 source:c:\users\marce\documents\c_programming\tic_tac_toe_2\tictactoe.c
+	<stdio.h>
+	<stdlib.h>
+
